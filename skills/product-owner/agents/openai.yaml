@@ -1,0 +1,5 @@
+interface:
+  display_name: "Product Owner"
+  short_description: "Orchestrate outcomes→BRD→architecture→epic build/UAT"
+policy:
+  allow_implicit_invocation: true
